@@ -10,5 +10,7 @@ package prueba;
  * @author rosa
  */
 public class Tarea1Git {
-    
+    public static void main(String[] args) {
+        System.out.println("Aplicación de Rosa Caracuel");
+    }
 }
